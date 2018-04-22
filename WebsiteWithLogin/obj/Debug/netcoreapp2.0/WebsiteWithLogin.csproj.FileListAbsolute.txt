@@ -1,0 +1,11 @@
+c:\users\rasmus\source\repos\WebsiteWithLogin\WebsiteWithLogin\bin\Debug\netcoreapp2.0\WebsiteWithLogin.deps.json
+c:\users\rasmus\source\repos\WebsiteWithLogin\WebsiteWithLogin\bin\Debug\netcoreapp2.0\WebsiteWithLogin.runtimeconfig.json
+c:\users\rasmus\source\repos\WebsiteWithLogin\WebsiteWithLogin\bin\Debug\netcoreapp2.0\WebsiteWithLogin.runtimeconfig.dev.json
+c:\users\rasmus\source\repos\WebsiteWithLogin\WebsiteWithLogin\bin\Debug\netcoreapp2.0\WebsiteWithLogin.dll
+c:\users\rasmus\source\repos\WebsiteWithLogin\WebsiteWithLogin\bin\Debug\netcoreapp2.0\WebsiteWithLogin.pdb
+c:\users\rasmus\source\repos\WebsiteWithLogin\WebsiteWithLogin\obj\Debug\netcoreapp2.0\WebsiteWithLogin.csprojResolveAssemblyReference.cache
+c:\users\rasmus\source\repos\WebsiteWithLogin\WebsiteWithLogin\obj\Debug\netcoreapp2.0\WebsiteWithLogin.csproj.CoreCompileInputs.cache
+c:\users\rasmus\source\repos\WebsiteWithLogin\WebsiteWithLogin\obj\Debug\netcoreapp2.0\WebsiteWithLogin.AssemblyInfoInputs.cache
+c:\users\rasmus\source\repos\WebsiteWithLogin\WebsiteWithLogin\obj\Debug\netcoreapp2.0\WebsiteWithLogin.AssemblyInfo.cs
+c:\users\rasmus\source\repos\WebsiteWithLogin\WebsiteWithLogin\obj\Debug\netcoreapp2.0\WebsiteWithLogin.dll
+c:\users\rasmus\source\repos\WebsiteWithLogin\WebsiteWithLogin\obj\Debug\netcoreapp2.0\WebsiteWithLogin.pdb

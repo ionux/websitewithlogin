@@ -1,0 +1,23 @@
+﻿@model WebsiteWithLogin.ViewModels.LoginViewModel;
+
+<div class="col-md-6">
+    <h2>Log ind</h2>
+
+    <form asp-controller="Student" asp-action="Login" method="post">
+        <div asp-validation-summary="All"></div>
+
+        <div>
+            <label asp-for="Email"></label>
+            <input asp-for="Email" class="form-control" />
+        </div>
+
+        <div>
+            <label asp-for="Password"></label>
+            <input asp-for="Password" class="form-control" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Log ind</button>
+
+    </form>
+</div>
+<div class="clearfix"></div>

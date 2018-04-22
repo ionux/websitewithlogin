@@ -1,0 +1,32 @@
+﻿@model WebsiteWithLogin.ViewModels.StudentRegisterViewModel;
+
+
+<div class="col-md-6">
+    <h2>Opret ny bruger</h2>
+
+    <form asp-controller="Student" asp-action="Register" method="post">
+        <div asp-validation-summary="All"></div>
+
+        <div>
+            <label asp-for="Email"></label>
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email"></span>
+        </div>
+
+        <div>
+            <label asp-for="Password"></label>
+            <input asp-for="Password" class="form-control" />
+            <span asp-validation-for="Password"></span>
+        </div>
+
+        <div>
+            <label asp-for="PasswordConfirm"></label>
+            <input asp-for="PasswordConfirm" class="form-control" />
+            <span asp-validation-for="PasswordConfirm"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Opret bruger</button>
+
+    </form>
+</div>
+<div class="clearfix"></div>
